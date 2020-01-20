@@ -23,7 +23,7 @@ API to get information of the Pokémon and their evolutions
 
 ### run migrate to database
 
-`python manage.py migrate
+`python manage.py migrate`
 
 ## run server
 
